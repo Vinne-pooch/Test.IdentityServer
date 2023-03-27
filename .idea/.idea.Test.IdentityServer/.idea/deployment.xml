@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Azure" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Azure">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../../../../../../Program Files/dotnet/sdk/6.0.407/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_6_default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.Client/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.Client/Test.Client.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.Client/obj/Debug/net6.0/Test.Client.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.Client/obj/Debug/net6.0/Test.Client.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.Client/obj/Debug/net6.0/Test.Client.GlobalUsings.g.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/Config.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/Test.IdentityServer.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/obj/Debug/netcoreapp3.1/Test.IdentityServer.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/obj/Debug/netcoreapp3.1/Test.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/Test.IdentityServer/tempkey.jwk" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/Controllers/WeatherForecastController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/Startup.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/WeatherForecast.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/WebApi.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp3.1/WebApi.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApi/obj/Debug/netcoreapp3.1/WebApi.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

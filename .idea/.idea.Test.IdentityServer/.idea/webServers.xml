@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="97ca144e-d93e-4d56-8ee7-44752241319f" name="Azure">
+        <fileTransfer accessType="SFTP" host="mydemo.canadacentral.cloudapp.azure.com" port="8172" sshConfigId="03f41830-5e2e-48c7-96f5-03549ad8d498" sshConfig="Vooltt025@mydemo.canadacentral.cloudapp.azure.com:8172 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

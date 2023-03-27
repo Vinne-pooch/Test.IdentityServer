@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="mydemo.canadacentral.cloudapp.azure.com" id="03f41830-5e2e-48c7-96f5-03549ad8d498" port="8172" nameFormat="DESCRIPTIVE" username="Vooltt025" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
